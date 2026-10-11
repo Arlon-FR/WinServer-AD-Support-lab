@@ -13,7 +13,7 @@
 
 - Criação de uma Organizational Unit (OU) exclusiva para a equipa de suporte técnico no Active Directory.
 
-- Criação da conta padrão arlon.rocha e aplicação rigorosa de Delegation of Control, restringindo a gestão, criação e exclusão de utilizadores apenas ao perímetro daquela OU.
+- Criação da conta padrão user.test e aplicação rigorosa de Delegation of Control, restringindo a gestão, criação e exclusão de utilizadores apenas ao perímetro daquela OU.
 
 3.
 
